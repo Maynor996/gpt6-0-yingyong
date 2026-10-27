@@ -1,9 +1,10 @@
-# GPT6.0 应用场景：写作 / 编程 / API
+# GPT6.0应用场景：写作、编程与API
 
 中文说明页关键词：**gpt6.0应用**
 
 - GitHub Pages：https://maynor996.github.io/gpt6-0-yingyong/
-- 正文：`docs/index.html` · `docs/article.md`
+- SEO：GPT6.0在写作、编程、API三类场景的落地建议。
+- 正文：`docs/index.html` · `docs/article.md`（含配图）
 
 ## 软推荐（无 aff）
 
